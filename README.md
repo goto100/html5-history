@@ -67,5 +67,5 @@ window.addEventListener('popstate', function() {
 
 # Links
 
-https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history
-http://www.jsmix.com/html5/introduction-to-history.html (中文)
+* https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history
+* http://www.jsmix.com/html5/introduction-to-history.html (中文)
